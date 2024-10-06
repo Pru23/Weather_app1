@@ -1,4 +1,5 @@
-                            Weather App
+
+                                               Weather App
 
 Overview
 This is a simple weather application built using Python and PyQt5. The app allows users to input a city name and retrieve the current weather, including temperature, weather description, and an emoji representing the weather condition. The weather data is fetched from the OpenWeatherMap API.
@@ -44,3 +45,4 @@ Future Enhancements
 
 Contact
 For any questions or contributions, please reach out at [pdera09@outlook.com].
+
